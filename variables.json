@@ -1,8 +1,8 @@
 [
   {
     "type": "dropdown",
-    "name": "Astrological sign",
-    "placeholder": "Choose your sign",
+    "name": "sign",
+    "placeholder": "Sign",
     "validator": "text",
     "required": true,
     "values": [
