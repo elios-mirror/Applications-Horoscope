@@ -1,0 +1,59 @@
+[
+  {
+    "type": "dropdown",
+    "name": "Astrological sign",
+    "placeholder": "Choose your sign",
+    "validator": "text",
+    "required": true,
+    "values": [
+      {
+        "text": "Aries",
+        "value": 1
+      },
+      {
+        "text": "Taurus",
+        "value": 2
+      },
+      {
+        "text": "Gemini",
+        "value": 3
+      },
+      {
+        "text": "Cancer",
+        "value": 4
+      },
+      {
+        "text": "Leo",
+        "value": 5
+      },
+      {
+        "text": "Virgo",
+        "value": 6
+      },
+      {
+        "text": "Libra",
+        "value": 7
+      },
+      {
+        "text": "Scorpio",
+        "value": 8
+      },
+      {
+        "text": "Sagittarius",
+        "value": 9
+      },
+      {
+        "text": "Capricorn",
+        "value": 10
+      },
+      {
+        "text": "Aquarius",
+        "value": 11
+      },
+      {
+        "text": "Pisces",
+        "value": 12
+      }
+    ]
+  }
+]
